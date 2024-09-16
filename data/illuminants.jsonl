@@ -1,0 +1,734 @@
+{
+  "name": "XBO 10000 W/HS OFR",
+  "nennstrom": 195.0,
+  "min_stromsteuerbereich": 160,
+  "max_stromsteuerbereich": 200,
+  "nennleistung": 10000.0,
+  "nennspannung": 50.0,
+  "durchmesser": 90.0,
+  "laenge": 436.0,
+  "laenge_sockel": 393.0,
+  "abstand_lichtschwerpunkt": 170.5,
+  "elektrodenabstand_kalt": 13.5,
+  "produktgewicht": 1030.0,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 300,
+  "warranty": 400,
+  "sockel_anode": "SFaX30-9.5",
+  "sockel_kathode": "SFa30-7.9",
+  "anmerkung_produkt": "XBO 10000 W/HS OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s15/p15",
+  "datum_deklaration": "2023-08-18",
+  "erzeugnisnummer": [
+    4050300624552,
+    4008321552327,
+    4062172030724
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "7934C4E7-A5DD-42D0-98AA-2349E600F6AD",
+    "cb26f713-f356-4c5c-b84f-f08fa520d647"
+  ],
+  "file_name": "ZMP_55851_XBO_10000_W_HS_OFR.pdf"
+}
+{
+  "name": "XBO 3000 W/H XL OFR",
+  "nennstrom": 105.0,
+  "min_stromsteuerbereich": 70,
+  "max_stromsteuerbereich": 110,
+  "nennleistung": 3000.0,
+  "nennspannung": 28.0,
+  "durchmesser": 66.0,
+  "laenge": 428.0,
+  "laenge_sockel": 382.0,
+  "abstand_lichtschwerpunkt": 167.5,
+  "elektrodenabstand_kalt": 6.0,
+  "produktgewicht": 687.0,
+  "kabel_laenge": 300.0,
+  "max_temp": 230,
+  "lifetime": 2200,
+  "warranty": 2200,
+  "sockel_anode": "SFaX30-13",
+  "sockel_kathode": "SFaX30-14",
+  "anmerkung_produkt": "XBO 3000 W/HTP XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-02",
+  "erzeugnisnummer": [
+    4008321226174
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "5774a7ba-fd41-4ab4-8b28-00f5e4874066"
+  ],
+  "file_name": "ZMP_1007191_XBO_3000_W_H_XL_OFR.pdf"
+}
+{
+  "name": "XBO 2500 W/HS XL OFR",
+  "nennstrom": 90.0,
+  "min_stromsteuerbereich": 70,
+  "max_stromsteuerbereich": 100,
+  "nennleistung": 2500.0,
+  "nennspannung": 28.0,
+  "durchmesser": 60.0,
+  "laenge": 342.0,
+  "laenge_sockel": 302.0,
+  "abstand_lichtschwerpunkt": 145.0,
+  "elektrodenabstand_kalt": 5.5,
+  "produktgewicht": 571.0,
+  "kabel_laenge": 300.0,
+  "max_temp": 230,
+  "lifetime": 2200,
+  "warranty": 0,
+  "sockel_anode": "SFcX27-9.5",
+  "sockel_kathode": "SFcA27-7.9",
+  "anmerkung_produkt": "XBO 2500 W/HS XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321299963,
+    4062172030250
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "ea2f9ace-f767-4dd4-8383-15b5f8e4b8b7"
+  ],
+  "file_name": "ZMP_1007189_XBO_2500_W_HS_XL_OFR.pdf"
+}
+{
+  "name": "XBO 4000 W/HSA OFR",
+  "nennstrom": 135.0,
+  "min_stromsteuerbereich": 80,
+  "max_stromsteuerbereich": 150,
+  "nennleistung": 4000.0,
+  "nennspannung": 29.0,
+  "durchmesser": 70.0,
+  "laenge": 416.0,
+  "laenge_sockel": 370.0,
+  "abstand_lichtschwerpunkt": 171.0,
+  "elektrodenabstand_kalt": 6.6,
+  "produktgewicht": 1022.9,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 1000,
+  "warranty": 1000,
+  "sockel_anode": "SFcX30-9.5",
+  "sockel_kathode": "SFc30-7.9",
+  "anmerkung_produkt": "3) Abstand Sockelboden zu Elektrodenspitze (kalt)",
+  "kuehlung": "Forciert",
+  "brennstellung": "s20/p20",
+  "datum_deklaration": "2023-08-18",
+  "erzeugnisnummer": [
+    4008321337030,
+    4008321412980
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "0b6df52f-0b97-4d4c-bcc0-6d1cab9f13b9"
+  ],
+  "file_name": "ZMP_55877_XBO_4000_W_HSA_OFR.pdf"
+}
+{
+  "name": "XBO 5000 W/H XL OFR",
+  "nennstrom": 140.0,
+  "min_stromsteuerbereich": 100,
+  "max_stromsteuerbereich": 150,
+  "nennleistung": 5000.0,
+  "nennspannung": 35.0,
+  "durchmesser": 70.0,
+  "laenge": 433.0,
+  "laenge_sockel": 382.0,
+  "abstand_lichtschwerpunkt": 167.5,
+  "elektrodenabstand_kalt": 7.5,
+  "produktgewicht": 1028.0,
+  "kabel_laenge": 560.0,
+  "max_temp": 230,
+  "lifetime": 1200,
+  "warranty": 0,
+  "sockel_anode": "SFcX30-16",
+  "sockel_kathode": "SFcX28-18",
+  "anmerkung_produkt": "XBO 5000 W/XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s15/p15",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321412829
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "6666821c-6025-4ae2-9049-74872fcf9c52"
+  ],
+  "file_name": "ZMP_1007203_XBO_5000_W_H_XL_OFR.pdf"
+}
+{
+  "name": "XBO 2000 W/SHSC OFR",
+  "nennstrom": 75.0,
+  "min_stromsteuerbereich": 50,
+  "max_stromsteuerbereich": 85,
+  "nennleistung": 2000.0,
+  "nennspannung": 25.0,
+  "durchmesser": 46.0,
+  "laenge": 236.0,
+  "laenge_sockel": 220.0,
+  "abstand_lichtschwerpunkt": 95.0,
+  "elektrodenabstand_kalt": 5.0,
+  "produktgewicht": 391.0,
+  "kabel_laenge": 265.0,
+  "max_temp": 230,
+  "lifetime": 2000,
+  "warranty": 2000,
+  "sockel_anode": "SK17/50",
+  "sockel_kathode": "SFCx27-8",
+  "anmerkung_produkt": "",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2023-02-10",
+  "erzeugnisnummer": [
+    4008321082077
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "d78f80b3-9cec-48bc-b9a2-a44e08f9b564"
+  ],
+  "file_name": "ZMP_55864_XBO_2000_W_SHSC_OFR.pdf"
+}
+{
+  "name": "XBO 1000 W/HTP OFR",
+  "nennstrom": 45.0,
+  "min_stromsteuerbereich": 30,
+  "max_stromsteuerbereich": 55,
+  "nennleistung": 1000.0,
+  "nennspannung": 21.0,
+  "durchmesser": 46.0,
+  "laenge": 330.0,
+  "laenge_sockel": 277.0,
+  "abstand_lichtschwerpunkt": 123.0,
+  "elektrodenabstand_kalt": 4.8,
+  "produktgewicht": 331.0,
+  "kabel_laenge": null,
+  "max_temp": 230,
+  "lifetime": 2400,
+  "warranty": 3000,
+  "sockel_anode": "SFc25-14",
+  "sockel_kathode": "SFc25-14",
+  "anmerkung_produkt": "OFR = Ozon-freie Version/H = horizontale Brennlage/TPF = Sockel mit Schraubgewinde",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2023-02-10",
+  "erzeugnisnummer": [
+    4008321081353,
+    4062172030243
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "4a09dcc0-0d4a-4682-9f3a-30d524e4c480"
+  ],
+  "file_name": "ZMP_55854_XBO_1000_W_HTP_OFR.pdf"
+}
+{
+  "name": "XBO 1000 W/HS OFR",
+  "nennstrom": 50.0,
+  "min_stromsteuerbereich": 30,
+  "max_stromsteuerbereich": 55,
+  "nennleistung": 1000.0,
+  "nennspannung": 19.0,
+  "durchmesser": 40.0,
+  "laenge": 235.0,
+  "laenge_sockel": 205.0,
+  "abstand_lichtschwerpunkt": 95.0,
+  "elektrodenabstand_kalt": 3.6,
+  "produktgewicht": 255.0,
+  "kabel_laenge": null,
+  "max_temp": 230,
+  "lifetime": 2000,
+  "warranty": 3000,
+  "sockel_anode": "SFc27-11",
+  "sockel_kathode": "SFcX27-8",
+  "anmerkung_produkt": "OFR = Ozon-freie Version/H = horizontale Brennlage/S = kurze Bauform (short)",
+  "kuehlung": "Forciert",
+  "brennstellung": "s20/p20",
+  "datum_deklaration": "2023-03-10",
+  "erzeugnisnummer": [
+    4008321082114,
+    4050300935566
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "22b5c075-11fc-41b0-a6d0-dec0348df50c"
+  ],
+  "file_name": "ZMP_55852_XBO_1000_W_HS_OFR.pdf"
+}
+{
+  "name": "XBO 4000 W/HS XL OFR",
+  "nennstrom": 135.0,
+  "min_stromsteuerbereich": 80,
+  "max_stromsteuerbereich": 150,
+  "nennleistung": 4000.0,
+  "nennspannung": 27.0,
+  "durchmesser": 70.0,
+  "laenge": 416.0,
+  "laenge_sockel": 370.0,
+  "abstand_lichtschwerpunkt": 171.0,
+  "elektrodenabstand_kalt": 7.0,
+  "produktgewicht": 1022.9,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 1500,
+  "warranty": 0,
+  "sockel_anode": "SFcX30-9.5",
+  "sockel_kathode": "SFc30-7.9",
+  "anmerkung_produkt": "XBQ 4000 W/HS XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-01-01",
+  "erzeugnisnummer": [
+    4008321201133,
+    4008321412812
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "6c5c4d0a-d5f2-470b-8914-c022a2c5a556"
+  ],
+  "file_name": "ZMP_1007199_XBO_4000_W_HS_XL_OFR.pdf"
+}
+{
+  "name": "XBO 1000 W/HSC OFR",
+  "nennstrom": 50.0,
+  "min_stromsteuerbereich": 30,
+  "max_stromsteuerbereich": 55,
+  "nennleistung": 1000.0,
+  "nennspannung": 190.0,
+  "durchmesser": 40.0,
+  "laenge": 236.0,
+  "laenge_sockel": 220.0,
+  "abstand_lichtschwerpunkt": 95.0,
+  "elektrodenabstand_kalt": 3.6,
+  "produktgewicht": 303.0,
+  "kabel_laenge": 265.0,
+  "max_temp": 230,
+  "lifetime": 2000,
+  "warranty": 3000,
+  "sockel_anode": "SK27/50",
+  "sockel_kathode": "SFCx27-8",
+  "anmerkung_produkt": "XB0 1000 W/HS OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s20/p20",
+  "datum_deklaration": "2023-08-18",
+  "erzeugnisnummer": [
+    4008321082107
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "f0941a28-1489-4dbf-8469-bb523f769078"
+  ],
+  "file_name": "ZMP_55853_XBO_1000_W_HSC_OFR.pdf"
+}
+{
+  "name": "XBO 2000 W/HS OFR",
+  "nennstrom": 80.0,
+  "min_stromsteuerbereich": 50,
+  "max_stromsteuerbereich": 85,
+  "nennleistung": 2000.0,
+  "nennspannung": 24.0,
+  "durchmesser": 60.0,
+  "laenge": 342.0,
+  "laenge_sockel": 302.0,
+  "abstand_lichtschwerpunkt": 145.0,
+  "elektrodenabstand_kalt": 5.0,
+  "produktgewicht": 490.0,
+  "kabel_laenge": 300.0,
+  "max_temp": 230,
+  "lifetime": 2400,
+  "warranty": 2400,
+  "sockel_anode": "SfX27-9.5",
+  "sockel_kathode": "SfA27-7.9",
+  "anmerkung_produkt": "H = horizontale Brennlage/S = kurze Bauform (short)",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321081360,
+    4062172030559
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "e8ef51c8-36d5-45b4-aa43-bff7de2b8ede"
+  ],
+  "file_name": "ZMP_1200637_XBO_2000_W_HS_OFR.pdf"
+}
+{
+  "name": "XBO 4000 W/HTP XL OFR",
+  "nennstrom": 130.0,
+  "min_stromsteuerbereich": 100,
+  "max_stromsteuerbereich": 140,
+  "nennleistung": 4000.0,
+  "nennspannung": 30.0,
+  "durchmesser": 70.0,
+  "laenge": 410.0,
+  "laenge_sockel": 382.0,
+  "abstand_lichtschwerpunkt": 167.5,
+  "elektrodenabstand_kalt": 7.0,
+  "produktgewicht": 827.6,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 1500,
+  "warranty": 1500,
+  "sockel_anode": "SFc30-14",
+  "sockel_kathode": "SFc30-14",
+  "anmerkung_produkt": "-",
+  "kuehlung": "Forciert",
+  "brennstellung": "s20/p20",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321440244,
+    4008321412874
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "35c99854-8d47-47b1-bfdc-a2868d2d25e2"
+  ],
+  "file_name": "ZMP_1007197_XBO_4000_W_HTP_XL_OFR.pdf"
+}
+{
+  "name": "XBO 3000 W/HTP XL OFR",
+  "nennstrom": 100.0,
+  "min_stromsteuerbereich": 70,
+  "max_stromsteuerbereich": 110,
+  "nennleistung": 3000.0,
+  "nennspannung": 28.0,
+  "durchmesser": 60.0,
+  "laenge": 405.0,
+  "laenge_sockel": 357.0,
+  "abstand_lichtschwerpunkt": 162.5,
+  "elektrodenabstand_kalt": 6.0,
+  "produktgewicht": 560.0,
+  "kabel_laenge": null,
+  "max_temp": 230,
+  "lifetime": 2200,
+  "warranty": 0,
+  "sockel_anode": "SFc30-14",
+  "sockel_kathode": "SFc27-14",
+  "anmerkung_produkt": "",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321244017,
+    4008321650436
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "847c6873-a086-4887-b5a4-0feb40e47dbc"
+  ],
+  "file_name": "ZMP_1007195_XBO_3000_W_HTP_XL_OFR.pdf"
+}
+{
+  "name": "XBO 1600 W/HSC XL OFR",
+  "nennstrom": 65.0,
+  "min_stromsteuerbereich": 50,
+  "max_stromsteuerbereich": 70,
+  "nennleistung": 1600.0,
+  "nennspannung": 23.0,
+  "durchmesser": 46.0,
+  "laenge": 236.0,
+  "laenge_sockel": 222.0,
+  "abstand_lichtschwerpunkt": 95.0,
+  "elektrodenabstand_kalt": 3.8,
+  "produktgewicht": 321.0,
+  "kabel_laenge": 265.0,
+  "max_temp": 230,
+  "lifetime": 2500,
+  "warranty": 2500,
+  "sockel_anode": "SK27/50",
+  "sockel_kathode": "SFCx27-8",
+  "anmerkung_produkt": "",
+  "kuehlung": "Forciert",
+  "brennstellung": "s20/p20",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321299932,
+    4062172031721
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "498770b8-b646-461c-bf2a-61855e8a6021",
+    "7a9913f5-169d-4ecd-8b20-4a10b8b6fd73"
+  ],
+  "file_name": "ZMP_1007177_XBO_1600_W_HSC_XL_OFR.pdf"
+}
+{
+  "name": "XBO 7000 W/HS XL OFR",
+  "nennstrom": 160.0,
+  "min_stromsteuerbereich": 110,
+  "max_stromsteuerbereich": 165,
+  "nennleistung": 7000.0,
+  "nennspannung": 42.0,
+  "durchmesser": 78.0,
+  "laenge": 436.0,
+  "laenge_sockel": 393.0,
+  "abstand_lichtschwerpunkt": 170.5,
+  "elektrodenabstand_kalt": 11.0,
+  "produktgewicht": 1025.0,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 650,
+  "warranty": 0,
+  "sockel_anode": "SFcX30-9.5",
+  "sockel_kathode": "SFc30-7.9",
+  "anmerkung_produkt": "XBO 7000 W/HS XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s15/p15",
+  "datum_deklaration": "2023-03-10",
+  "erzeugnisnummer": [
+    4008321412928,
+    4062172030625
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "1ed097d6-f451-45c6-b29a-3f156df7504f"
+  ],
+  "file_name": "ZMP_1007209_XBO_7000_W_HS_XL_OFR.pdf"
+}
+{
+  "name": "XBO 6000 W/HS XL OFR",
+  "nennstrom": 160.0,
+  "min_stromsteuerbereich": 110,
+  "max_stromsteuerbereich": 165,
+  "nennleistung": 6000.0,
+  "nennspannung": 37.0,
+  "durchmesser": 78.0,
+  "laenge": 436.0,
+  "laenge_sockel": 393.0,
+  "abstand_lichtschwerpunkt": 170.5,
+  "elektrodenabstand_kalt": 9.0,
+  "produktgewicht": 1025.0,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 750,
+  "warranty": 750,
+  "sockel_anode": "SFcX30-9.5",
+  "sockel_kathode": "SFc30-7.9",
+  "anmerkung_produkt": "4. Januar 2024, 01:54:02 \u00a9 2024, OSRAM GmbH. Alle Rechte vorbehalten. XBO 6000 W/HS XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s15/p15",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321412904,
+    4062172030618
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "ff65d599-cc0d-4b3f-b2e1-ecbe6ef3d8f1"
+  ],
+  "file_name": "ZMP_1007207_XBO_6000_W_HS_XL_OFR.pdf"
+}
+{
+  "name": "XBO 2000 W/HTP XL OFR",
+  "nennstrom": 7.0,
+  "min_stromsteuerbereich": 50,
+  "max_stromsteuerbereich": 85,
+  "nennleistung": 2000.0,
+  "nennspannung": 28.0,
+  "durchmesser": 52.0,
+  "laenge": 375.0,
+  "laenge_sockel": 322.0,
+  "abstand_lichtschwerpunkt": 142.5,
+  "elektrodenabstand_kalt": 5.8,
+  "produktgewicht": 452.0,
+  "kabel_laenge": null,
+  "max_temp": 230,
+  "lifetime": 3500,
+  "warranty": 0,
+  "sockel_anode": "SFc2S-14",
+  "sockel_kathode": "SFc2S-14",
+  "anmerkung_produkt": "-",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-09",
+  "erzeugnisnummer": [
+    4008321244031,
+    4008321650429
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "6289c378-8cb7-4068-bd67-f74e949787c5"
+  ],
+  "file_name": "ZMP_1007187_XBO_2000_W_HTP_XL_OFR.pdf"
+}
+{
+  "name": "XBO 3000 W/HS XL OFR",
+  "nennstrom": 100.0,
+  "min_stromsteuerbereich": 70,
+  "max_stromsteuerbereich": 110,
+  "nennleistung": 3000.0,
+  "nennspannung": 29.0,
+  "durchmesser": 60.0,
+  "laenge": 342.0,
+  "laenge_sockel": 302.0,
+  "abstand_lichtschwerpunkt": 145.0,
+  "elektrodenabstand_kalt": 6.0,
+  "produktgewicht": 555.0,
+  "kabel_laenge": 300.0,
+  "max_temp": 230,
+  "lifetime": 2200,
+  "warranty": 2200,
+  "sockel_anode": "SFcX30-9.5",
+  "sockel_kathode": "SFc30-7.9",
+  "anmerkung_produkt": "XBO 3000 W/HS XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-09",
+  "erzeugnisnummer": [
+    4008321330031,
+    4062172030111,
+    4062172152341
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "dd2ddf15-037b-4473-8156-97498e721fb3",
+    "c313bab5-e29f-4e83-9bdd-905d344154b8"
+  ],
+  "file_name": "ZMP_1007193_XBO_3000_W_HS_XL_OFR.pdf"
+}
+{
+  "name": "XBO 1600 W XL OFR",
+  "nennstrom": 65.0,
+  "min_stromsteuerbereich": 45,
+  "max_stromsteuerbereich": 75,
+  "nennleistung": 1600.0,
+  "nennspannung": 24.0,
+  "durchmesser": 52.0,
+  "laenge": 370.0,
+  "laenge_sockel": 322.0,
+  "abstand_lichtschwerpunkt": 143.0,
+  "elektrodenabstand_kalt": 4.8,
+  "produktgewicht": 418.0,
+  "kabel_laenge": null,
+  "max_temp": 230,
+  "lifetime": 3500,
+  "warranty": 0,
+  "sockel_anode": "SFcX27-10",
+  "sockel_kathode": "SFc27-12",
+  "anmerkung_produkt": "",
+  "kuehlung": "Forciert",
+  "brennstellung": "Other",
+  "datum_deklaration": "2023-05-19",
+  "erzeugnisnummer": [
+    4008321299918,
+    4062172031714
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "c835cc90-6023-4924-b0d8-b34998daa554"
+  ],
+  "file_name": "ZMP_1007179_XBO_1600_W_XL_OFR.pdf"
+}
+{
+  "name": "XBO 2000 W/H XL OFR",
+  "nennstrom": 75.0,
+  "min_stromsteuerbereich": 50,
+  "max_stromsteuerbereich": 85,
+  "nennleistung": 2000.0,
+  "nennspannung": 26.0,
+  "durchmesser": 52.0,
+  "laenge": 370.0,
+  "laenge_sockel": 322.0,
+  "abstand_lichtschwerpunkt": 142.5,
+  "elektrodenabstand_kalt": 5.8,
+  "produktgewicht": 534.0,
+  "kabel_laenge": 300.0,
+  "max_temp": 230,
+  "lifetime": 3500,
+  "warranty": 0,
+  "sockel_anode": "SFaX27-10",
+  "sockel_kathode": "SFaX27-12",
+  "anmerkung_produkt": "XBO 2000 W/4 XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s30/p30",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321121781
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "9833f535-0b1f-4561-96ec-3872999e7bed"
+  ],
+  "file_name": "ZMP_1007184_XBO_2000_W_H_XL_OFR.pdf"
+}
+{
+  "name": "XBO 4500 W/HS XL OFR",
+  "nennstrom": 13.5,
+  "min_stromsteuerbereich": 80,
+  "max_stromsteuerbereich": 150,
+  "nennleistung": 4500.0,
+  "nennspannung": 32.0,
+  "durchmesser": 70.0,
+  "laenge": 413.0,
+  "laenge_sockel": 370.0,
+  "abstand_lichtschwerpunkt": 171.0,
+  "elektrodenabstand_kalt": 7.5,
+  "produktgewicht": 1023.0,
+  "kabel_laenge": 400.0,
+  "max_temp": 230,
+  "lifetime": 1400,
+  "warranty": 0,
+  "sockel_anode": "SFcX30-9.5",
+  "sockel_kathode": "SFc30-7.9",
+  "anmerkung_produkt": "XBQ 4500 W/HS XL OFR",
+  "kuehlung": "Forciert",
+  "brennstellung": "s15/p15",
+  "datum_deklaration": "2022-12-16",
+  "erzeugnisnummer": [
+    4008321412881
+  ],
+  "stoff_kandidatenliste": "Lead",
+  "stoff_cas_nr": "7439-92-1",
+  "info_sicherer_gebrauch": "Die Bezeichnung des Stoffes der Kandidatenliste reicht aus f\u00fcr den sicheren Gebrauch des Produktes.",
+  "scip_deklarationsnummer": [
+    "2a7bfaf1-544e-40aa-a314-c9fc5872b500"
+  ],
+  "file_name": "ZMP_1007201_XBO_4500_W_HS_XL_OFR.pdf"
+}
