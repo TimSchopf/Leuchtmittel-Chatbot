@@ -107,4 +107,4 @@ if prompt := st.chat_input("Frage nach Informationen über Leuchtmittel"):
             response = agent.chat(st.session_state.messages)
         message_placeholder.markdown(response)
     st.session_state.messages.append({"role": "assistant", "content": response})
-    st.button('Reset Chat', on_click=reset_conversation)
+    st.button('Chat neu starten', on_click=reset_conversation)
